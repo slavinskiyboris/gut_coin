@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a804f9caa9dc7d849932c8c59977435c, type: 3}
+  m_Name: ShopItems
+  m_EditorClassIdentifier: 
+  Items:
+  - ItemId: boost_1
+    Title: "\u0417\u0430\u0440\u044F\u0434\u043A\u0438 \u0438 \u041D\u0430\u0443\u0448\u043D\u043A\u0438"
+    Description: "\u0417\u0430 \u043A\u043B\u0438\u043A 1.2"
+    Price: 100
+    Image: {fileID: 21300000, guid: 7f53cc20f9f7ebc428fbf6f764c10eb2, type: 3}
+    Amount: 1.2
+    Level: 0
+  - ItemId: boost_2
+    Title: "\u041A\u043E\u0444\u0435"
+    Description: "\u0417\u0430 \u043A\u043B\u0438\u043A 3"
+    Price: 1500
+    Image: {fileID: 21300000, guid: 1da771d6540ccb34483f1eb19ed6f2a7, type: 3}
+    Amount: 3
+    Level: 10
+  - ItemId: boost_3
+    Title: "\u0411\u0443\u0441\u0442\u0435\u0440 x4.5"
+    Description: "\u0425\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0430\u0430\u0439"
+    Price: 3000
+    Image: {fileID: 21300000, guid: 25630a34d83b9c14e8915c487e52bdf4, type: 3}
+    Amount: 4.5
+    Level: 15
+  - ItemId: boost_4
+    Title: "\u0411\u0443\u0441\u0442\u0435\u0440 x6"
+    Description: "\u0425\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0430\u0430\u0439"
+    Price: 7000
+    Image: {fileID: 21300000, guid: 25630a34d83b9c14e8915c487e52bdf4, type: 3}
+    Amount: 6
+    Level: 25

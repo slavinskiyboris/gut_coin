@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Борис\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Борис\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_gut-coin.-958361035.00" t="ExcludeRecursive" />
+    <e p="D:\Project\GUT-COIN\GUT-COIN" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AudioSystem.cs" t="Include" />
+          <e p="Building.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="GameCanvas.cs" t="Include" />
+          <e p="LeaderboardItem.cs" t="Include" />
+          <e p="LevelUp.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+          <e p="Shop.cs" t="Include" />
+          <e p="ShopItem.cs" t="Include" />
+          <e p="ShopScriptableObject.cs" t="Include" />
+          <e p="TimeTrigger.cs" t="Include" />
+          <e p="VisualShopItem.cs" t="Include" />
+        </e>
+        <e p="SimpleJSON-master" t="Include">
+          <e p="Changelog.txt" t="Include" />
+          <e p="SimpleJSON.cs" t="Include" />
+          <e p="SimpleJSONBinary.cs" t="Include" />
+          <e p="SimpleJSONUnity.cs" t="Include" />
+        </e>
+      </e>
+      <e p="gut-coin.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
